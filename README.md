@@ -12,13 +12,13 @@
   </p>
   
   <div align="center">
-    <a href="mailto:umaura.44@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=umaura.44@gmail.com">
       <img src="https://img.shields.io/badge/📧_Email-umaura.44%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/ananya-kaushal">
+    <a href="https://www.linkedin.com/in/ananya-kaushal-573233371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
       <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/ananya-kaushal">
+    <a href="https://github.com/Ananya-Kaushal137">
       <img src="https://img.shields.io/badge/🐙_GitHub-Follow_Me-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" />
     </a>
   </div>
@@ -103,16 +103,15 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya-kaushal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-kaushal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Kaushal137&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-kaushal&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+
+
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya-kaushal&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-Kaushal137&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 </div>
 
 <br />
@@ -127,15 +126,15 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/ananya-kaushal/student-management-system">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananya-kaushal&repo=student-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/Ananya-Kaushal137/student-management-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananya-Kaushal137&repo=student-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
         <p><strong>🎓 Student Management System</strong></p>
         <p>Full-stack web application for managing student records</p>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/ananya-kaushal/weather-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananya-kaushal&repo=weather-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/Ananya-Kaushal137/weather-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananya-Kaushal137&repo=weather-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
         <p><strong>🌤️ Weather App</strong></p>
         <p>React-based weather application with API integration</p>
@@ -143,15 +142,15 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/ananya-kaushal/todo-list-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananya-kaushal&repo=todo-list-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/Ananya-Kaushal137/todo-list-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananya-Kaushal137&repo=todo-list-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
         <p><strong>✅ Todo List App</strong></p>
         <p>Interactive task management application with local storage</p>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/ananya-kaushal/calculator-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananya-kaushal&repo=calculator-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/Ananya-Kaushal137/calculator-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananya-Kaushal137&repo=calculator-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
         <p><strong>🧮 Calculator App</strong></p>
         <p>Scientific calculator built with JavaScript and CSS</p>
@@ -159,7 +158,7 @@
     </tr>
   </table>
   
-  <a href="https://github.com/ananya-kaushal?tab=repositories">
+  <a href="https://github.com/Ananya-Kaushal137?tab=repositories">
     <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="View All Projects" />
   </a>
 </div>
@@ -167,7 +166,7 @@
 <br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+
   
   <h2>🤝 Let's Connect & Learn Together</h2>
 </div>
@@ -178,16 +177,16 @@
   </p>
   
   <p align="center">
-    <a href="mailto:umaura.44@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=umaura.44@gmail.com">
       <img src="https://img.shields.io/badge/📧_Drop_a_Message-umaura.44%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
     </a>
   </p>
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/ananya-kaushal">
+    <a href="https://www.linkedin.com/in/ananya-kaushal-573233371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
       <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/ananya-kaushal">
+    <a href="https://github.com/Ananya-Kaushal137">
       <img src="https://img.shields.io/badge/🐙_GitHub-Follow_Journey-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" />
     </a>
   </p>
@@ -199,6 +198,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=100&section=footer" />
   
   <p>
-    <em>⭐ From <a href="https://github.com/ananya-kaushal">Ananya Kaushal</a> - Learning, coding, and growing every day! ⭐</em>
+    <em>⭐ From <a href="https://github.com/Ananya-Kaushal137">Ananya Kaushal</a> - Learning, coding, and growing every day! ⭐</em>
   </p>
 </div>
