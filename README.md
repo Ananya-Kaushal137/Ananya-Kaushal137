@@ -119,45 +119,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
   
-  <h2>🎯 Academic Projects & Learning</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Ananya-Kaushal137/student-management-system">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananya-Kaushal137&repo=student-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-        </a>
-        <p><strong>🎓 Student Management System</strong></p>
-        <p>Full-stack web application for managing student records</p>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Ananya-Kaushal137/weather-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananya-Kaushal137&repo=weather-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-        </a>
-        <p><strong>🌤️ Weather App</strong></p>
-        <p>React-based weather application with API integration</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Ananya-Kaushal137/todo-list-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananya-Kaushal137&repo=todo-list-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-        </a>
-        <p><strong>✅ Todo List App</strong></p>
-        <p>Interactive task management application with local storage</p>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Ananya-Kaushal137/calculator-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananya-Kaushal137&repo=calculator-app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-        </a>
-        <p><strong>🧮 Calculator App</strong></p>
-        <p>Scientific calculator built with JavaScript and CSS</p>
-      </td>
-    </tr>
-  </table>
-  
   <a href="https://github.com/Ananya-Kaushal137?tab=repositories">
     <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="View All Projects" />
   </a>
