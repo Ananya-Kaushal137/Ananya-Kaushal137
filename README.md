@@ -46,13 +46,6 @@
 - 📊 **Data Science Explorer** - Uncovering insights from data and patterns
 - 🎮 **Game Development** - Creating interactive experiences and digital worlds
 
-### ✨ What Fuels My Code
-- 🌙 **Late Night Coding**: Best ideas come after midnight with some good music
-- 🎯 **Problem Detective**: Love debugging and solving tricky challenges  
-- 🌈 **Creative Solutions**: Finding elegant ways to solve complex problems
-- 🤖 **Future Tech**: Excited about AI, blockchain, and emerging technologies
-- 🌍 **Open Source**: Contributing to projects that make a difference
-
 ### 💫 Coding Philosophy
 *"Code is art, bugs are just happy little accidents, and every error message is a teacher in disguise!"* ✨
 
@@ -115,7 +108,6 @@
 </div>
 
 <br />
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
   
